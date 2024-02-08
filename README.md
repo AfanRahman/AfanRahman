@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello, I'm Afan 👋
 
-<!--
-**AfanRahman/AfanRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science professional with a Master's degree and hands-on experience as a Data Analyst. I'm skilled in Python, R, SQL, Tableau, Power BI, and Excel, and I use these tools to analyze complex datasets and derive meaningful insights.
 
-Here are some ideas to get you started:
+## 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Master's degree in Data Science
+
+## 💼 Professional Experience
+
+- Data Analyst Intern
+
+## 🛠️ Technical Skills
+
+- Python
+- R
+- SQL
+- Tableau
+- Power BI
+- Excel
+
+## 📈 Data Analysis Projects
+
+- Comparative study of algorithms for Parkinson's Disease prediction
+- Power BI dashboard for sales insights
+- Analysis of NYC 311 Service Requests
+
+I'm currently seeking challenging Data Analyst roles in the UAE. Feel free to reach out to me if you have any opportunities or if you just want to chat about data science!
+
+https://www.linkedin.com/in/afan-rahman/
