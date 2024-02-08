@@ -5,10 +5,11 @@ I'm a Data Science professional with a Master's degree and hands-on experience a
 ## 🎓 Education
 
 - Master's degree in Data Science
+- Bachelor's degree in Statistics
 
 ## 💼 Professional Experience
 
-- Data Analyst Intern
+- Data Analyst Intern at TrueD
 
 ## 🛠️ Technical Skills
 
@@ -18,8 +19,9 @@ I'm a Data Science professional with a Master's degree and hands-on experience a
 - Tableau
 - Power BI
 - Excel
+- SPSS
 
-## 📈 Data Analysis Projects
+## 📈 Projects
 
 - Comparative study of algorithms for Parkinson's Disease prediction
 - Power BI dashboard for sales insights
